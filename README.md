@@ -1,24 +1,26 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# Microdust 微尘
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+## Thanks
 
-## Before You Begin
+The blog used many tool/service,many thanks to:
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+* [Github](https://github.com/), all the data based on;
+* [Git](https://git-scm.com/), blogs and code files version control system;
+* [Jekyll](http://jekyllrb.com/), a static site generator;
+* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
+* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
+* [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
+* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
+* [Google](http://google.com), the one who tell me how to make it.
+* …
 
-It should look like this:
-`baseurl: ""`
+## How To Creat A Jekyll Blog
 
-## What's Included
+[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
 
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
+Build your blog Step by step
+## Just write
 
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+Start writing now！

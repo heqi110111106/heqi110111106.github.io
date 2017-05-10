@@ -1,7 +1,7 @@
 /*!
  * Clean Blog v1.0.0 (http://startbootstrap.com)
  * Copyright 2015 Start Bootstrap
- * Licensed under MIT (https://spdx.org/licenses/MIT)
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
 // Tooltip Init
@@ -13,7 +13,7 @@ $(function() {
 
 $(function() {
 
-    $("#contactForm input,#contactForm textarea").jqBootstrapValidation({
+    $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
             // additional error messages or events
